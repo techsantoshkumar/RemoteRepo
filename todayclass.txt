@@ -1,0 +1,225 @@
+    1  pwd
+    2  mkdir newdirectry
+    3  ls
+    4  cd newdirectry/
+    5  touch file
+    6  ls-ltr
+    7  ls -ltr
+    8  vi file
+    9  cat file
+   10  vi file
+   11  vi file1
+   12  cp -copy file file1
+   13  cp-copy file file1
+   14  cp -copy file file1
+   15  top linux
+   16  grep linux
+   17  clear
+   18  useradd
+   19  adduser
+   20  sudo -i
+   21  su santosh-server
+   22  service sshd restart
+   23  ls /home/
+   24  su santosh-server
+   25  java -version
+   26  wget ec2-user@ec2-3-18-225-108.us-east-2.compute.amazonaws.com
+   27  ls
+   28  cd newdirectry/
+   29  ls
+   30  clear
+   31  ps -eaf/grep tomcat
+   32  ps
+   33  ps -eaf / grep tomcat
+   34  sudo -i
+   35  ps -eaf / grep tomcat
+   36  pws
+   37  pwd
+   38  clear
+   39  Ps -eaf / grep tomcat
+   40  ps -eaf / grep tomcat
+   41  ps -eaf / gep tomcat
+   42  ls
+   43  ls
+   44  wget http://apachemirror.wuchna.com/tomcat/tomcat-8/v8.5.50/bin/apache-tomcat-8.5.50.zip
+   45  ls
+   46  cd apache-tomcat-8.5.50.zip 
+   47  ls
+   48  unzip apache-tomcat-8.5.50.zip 
+   49  yum install unzip
+   50  unzip apache-tomcat-8.5.50.zip 
+   51  ls
+   52  cd apache-tomcat-8.5.50
+   53  ls
+   54  cd webapps/
+   55  ls
+   56  wget https://updates.jenkins-ci.org/download/war/1.651/jenkins.war
+   57  ls
+   58  ../..
+   59  ../bin
+   60  ./
+   61  cd ..
+   62  cd bin/
+   63  clear
+   64  chmod 777 *
+   65  ls
+   66  ./startup.sh
+   67  ls
+   68  clear
+   69  ./shutdown.sh
+   70  cd..
+   71  sudo -i
+   72  pwd
+   73  ls
+   74  mkdir jenkins
+   75  ls
+   76  cd jenkins/
+   77  cd..
+   78  cd.
+   79  sudo -i
+   80  pwd
+   81  /home
+   82  ls
+   83  cd apache-tomcat-8.5.50
+   84  cd bin/
+   85  ./startup.sh
+   86  ps -eaf | gep tomcat
+   87  ps -eaf | grep tomcat
+   88  ls /home/
+   89  clear
+   90  ls /home/
+   91  ls
+   92  cd newdirectry/
+   93  ls
+   94  ls /home/
+   95  ls
+   96  cd apache-tomcat-8.5.50
+   97  cd bin/
+   98  ls
+   99  cd..
+  100  ls /home/
+  101  pwd
+  102  cd ../webapps/
+  103  ls
+  104  cp jenkins.war /home/jenkins/
+  105  cd /home/jenkins
+  106  su jenkins
+  107  pwd
+  108  ls
+  109  cd jenkins/
+  110  ls
+  111  exit
+  112  ls /home/
+  113  su jenkins
+  114  ls
+  115  su jenkins
+  116  exit
+  117  ls
+  118  cd jenkins/
+  119  ls
+  120  su jenkins
+  121  ls
+  122  su jenkins
+  123  ls
+  124  su jenkins
+  125  yum install git
+  126  mkdir localrepo
+  127  ls
+  128  cd localrepo/
+  129  mkdir file
+  130  vi file1
+  131  git init 
+  132  git remote add origin https://github.com/techsantoshkumar/RemoteRepo.git
+  133  git add *
+  134  git status
+  135  git commit -m "first file1 commit"
+  136  git push -u origin master
+  137  pwd
+  138  su jenkins
+  139  su jenkins
+  140  history 
+  141  history 
+  142  su jenkins
+  143  visudo
+  144  cd /etc/ssh
+  145  ls
+  146  cd
+  147  vi /etc/ssh/sshd_config
+  148  ls
+  149  su jenkins
+  150  ls
+  151  cd
+  152  ls
+  153  su jenkins
+  154  ls
+  155  history 
+  156  cd jenkins/
+  157  ls
+  158  cd ../
+  159  ls
+  160  cd newdirectry/
+  161  ls
+  162  cd ../
+  163  cd dev3
+  164  ls
+  165  cd RemoteRepo/
+  166  ls
+  167  history
+  168  cd ../
+  169  exit
+  170  mkdir dev2
+  171  mkdir dev3
+  172  cd dev2
+  173  git clone https://github.com/techsantoshkumar/RemoteRepo.git
+  174  cd ../dev3
+  175  git clone https://github.com/techsantoshkumar/RemoteRepo.git
+  176  cd ../dev2
+  177  cd RemoteRepo/
+  178  ls
+  179  touch file3
+  180  git status
+  181  git add .
+  182  git commit -m "file3 added"
+  183  git push
+  184  git status
+  185  cd ../dev3
+  186  cd ../../dev3
+  187  ls
+  188  cd RemoteRepo/
+  189  ls
+  190  touch file4
+  191  git add .
+  192  git commit -m "file4 added
+  193  "
+  194  git push
+  195  git pull
+  196  git push
+  197  git status
+  198  ls
+  199  mkdir dev1
+  200  cd dev1
+  201  git clone https://github.com/techsantoshkumar/RemoteRepo.git
+  202  ls
+  203  cd RemoteRepo/
+  204  ls
+  205  vi file1 
+  206  touch file2
+  207  ls
+  208  git status
+  209  git add .
+  210  git status
+  211  git commit -m "dev1 changes"
+  212  git push
+  213  git status
+  214  git push
+  215  git status
+  216  ls
+  217  cd newdirectry/
+  218  ls
+  219  s
+  220  clear
+  221  ls
+  222  cd localBranch/
+  223  ls
+  224  history 
+  225  history >> todayclass.txt
