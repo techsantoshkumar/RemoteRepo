@@ -1,6 +1,6 @@
 node{
     stage('build'){
-        sh label: '', script: 'mkdir /home/jenkins/test1'
+        sh label: '', script: 'mkdir /home/jenkins/test2'
     }
     stage('deploy'){
         echo 'welcome to pip line'
